@@ -1,6 +1,6 @@
 # Getting Started with Vie-Gmail Clone
 
-This project is also deployed on : app.gmail.tiwari.codes
+This project is also deployed on : https://app.gmail.tiwari.codes
 
 ## Available Scripts
 
